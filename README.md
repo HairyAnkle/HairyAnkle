@@ -16,8 +16,8 @@
 
 ## 🛠 Technologies & Expertise  
 - **Cybersecurity & Forensics Tools:** Wireshark, Nmap, Burp Suite, Kali Linux, Ghidra  
-- **Programming:** Python, Java, C/C++, Kotlin  
-- **Development Tools:** Android Studio, ReactJS, PHP, MySQL, Git  
+- **Programming:** Python, Java, C/C++/C#, Kotlin  
+- **Development Tools:** Android Studio, ReactJS, PHP, MySQL, Git, WPF  
 - **Skills:** Digital Forensics, Vulnerability Analysis, Hardware Troubleshooting  
 
 ---
@@ -40,22 +40,17 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HairyAnkle&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HairyAnkle&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HairyAnkle&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>  
+## 📊 My GitHub at a Glance  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HairyAnkle&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HairyAnkle&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://hairyankle.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/cristian-ogena"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:cristian.ogena09@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" /></a>
-</p>  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hairyankle.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-ogena)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian.ogena09@gmail.com)  
+
 
 ✨ *“Code. Secure. Innovate.”*  
