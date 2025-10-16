@@ -31,15 +31,6 @@
 
 ---
 
-## 🚀 Projects  
-- 📱 **Network Spoofing Detection App** – Android app detecting ARP/DNS spoofing in IoT networks  
-- 🖥 **Vulnerability Scanner** – Python-based tool for scanning IoT devices for common CVEs  
-- 📘 **CTF Challenge Writeups** – Guides & solutions for TryHackMe/HackTheBox challenges  
-- 🚨 **IoT Emergency Alert System** – Android app sending SMS alerts for non-tech users  
-- 🚌 **Lulan** – Mobile app for safer & more efficient school transportation  
-
----
-
 ## 📊 My GitHub at a Glance  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HairyAnkle&show_icons=true&theme=tokyonight)  
 
