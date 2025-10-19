@@ -18,7 +18,7 @@
 - **Cybersecurity & Forensics Tools:** Wireshark, Nmap, Burp Suite, Kali Linux, Ghidra  
 - **Programming:** Python, Java, C/C++/C#, Kotlin  
 - **Development Tools:** Android Studio, ReactJS, PHP, MySQL, Git, WPF  
-- **Skills:** Digital Forensics, Vulnerability Analysis, Hardware Troubleshooting  
+- **Skills:** Digital Forensics, Vulnerability Analysis, Hardware Troubleshooting, Cybersecurity 
 
 ---
 
