@@ -1,10 +1,8 @@
-<div align="center">
-  # Hi, I'm HairyAnkle 👋  
+# Hi, I'm HairyAnkle 👋  
+🔐 **Computer Science Major in Digital Forensics**  
+💻 Passionate about **Cybersecurity, Digital Forensics, and Software Development**  
+🎯 Goal: Protect and secure digital environments while building innovative apps & tools
 
-  🔐 **Computer Science Major in Digital Forensics**  
-  💻 Passionate about **Cybersecurity, Digital Forensics, and Software Development**  
-  🎯 Goal: Protect and secure digital environments while building innovative apps & tools
-</div>
 ---
 
 ## 🧑‍🎓 About Me  
